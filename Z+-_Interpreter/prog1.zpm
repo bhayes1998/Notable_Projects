@@ -1,0 +1,10 @@
+int var ; 
+int var2 ; 
+int var3 ; 
+var = 5 ;
+var2 = 5 ;
+var3 = 6 ; 
+
+FOR 1000000 var += var2 ; var -= var3 ; ENDFOR
+
+print var ; 

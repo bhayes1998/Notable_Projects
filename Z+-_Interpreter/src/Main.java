@@ -1,7 +1,7 @@
 /* Bryan Hayes 
  * 2/4/2020
  * Z+- Interpreter 
- * Interprets a language similar to Java, can perform basic math, variable declration, and for loops 
+ * Interprets a language similar to Java, can perform basic math, variable declaration, and for loops 
  * 
  * 
  * Every test I have run, as well as the tests provided on the homework document, all work.  
